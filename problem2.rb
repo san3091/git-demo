@@ -1,11 +1,8 @@
 puts "Hello World!"
 
 
-puts "What is your name?"
-answer = gets.chomp
-
-trio = answer.capitalize
-
-puts "STOP DOING THAT #{trio}"
+def todo_nos_sale_bien
+  "lalala"
+end
 
 This is probably gonna break.
