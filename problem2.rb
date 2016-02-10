@@ -8,3 +8,8 @@ trio = answer.capitalize
 
 puts trio 
 
+
+def 
+	2 + 2
+	
+end
