@@ -1,5 +1,9 @@
-class Break
-  def cry
-    "this is a merge conflict"
-  end
-end
+puts "Hello World!"
+
+
+puts "What is your name?"
+answer = gets.chomp
+
+trio = answer.capitalize
+
+puts "STOP DOING THAT #{trio}"
